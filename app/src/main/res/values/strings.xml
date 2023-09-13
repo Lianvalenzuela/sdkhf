@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Eval1</string>
+    <string-array name="planetas">
+        <item> Seleccione un planeta </item>
+        <item> Planeta tierra</item>
+        <item> Venus</item>
+        <item> Marte</item>
+    </string-array>
+</resources>
